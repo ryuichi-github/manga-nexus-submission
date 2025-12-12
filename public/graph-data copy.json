@@ -1,0 +1,173 @@
+{
+  "nodes": [
+    {
+      "id": "1",
+      "label": "鋼の錬金術師",
+      "title": "鋼の錬金術師",
+      "author": "荒川 弘",
+      "genres": ["ファンタジー", "バトル"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1523475472560-d2df97ec485c?auto=format&fit=crop&w=600&q=80",
+      "description": "錬金術が存在する世界で、兄弟が失ったものを取り戻そうとする物語。"
+    },
+    {
+      "id": "2",
+      "label": "銀の匙",
+      "title": "銀の匙",
+      "author": "荒川 弘",
+      "genres": ["学園", "農業"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1504274066651-8d31a536b11a?auto=format&fit=crop&w=600&q=80",
+      "description": "都会育ちの主人公が農業高校で成長していく青春ストーリー。"
+    },
+    {
+      "id": "3",
+      "label": "青の祓魔師",
+      "title": "青の祓魔師",
+      "author": "加藤 和恵",
+      "genres": ["ファンタジー", "学園"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980?auto=format&fit=crop&w=600&q=80",
+      "description": "悪魔の血を引く少年が祓魔師として戦いながら成長する物語。"
+    },
+    {
+      "id": "4",
+      "label": "進撃の巨人",
+      "title": "進撃の巨人",
+      "author": "諫山 創",
+      "genres": ["ダークファンタジー", "サバイバル"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1522747776116-64ee9be8e4a1?auto=format&fit=crop&w=600&q=80",
+      "description": "巨人に支配された世界で人類が生き残りをかけて戦う。"
+    },
+    {
+      "id": "5",
+      "label": "不滅のあなたへ",
+      "title": "不滅のあなたへ",
+      "author": "大今 良時",
+      "genres": ["ファンタジー", "ドラマ"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980?auto=format&fit=crop&w=600&q=80",
+      "description": "不死の存在が様々な人々との出会いを通して成長していく感動の物語。"
+    },
+    {
+      "id": "6",
+      "label": "ハイキュー!!",
+      "title": "ハイキュー!!",
+      "author": "古舘 春一",
+      "genres": ["スポーツ", "学園"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1581131598301-f2a4cf6c0ac1?auto=format&fit=crop&w=600&q=80",
+      "description": "バレーボールに情熱を注ぐ高校生たちの青春スポーツ漫画。"
+    },
+    {
+      "id": "7",
+      "label": "呪術廻戦",
+      "title": "呪術廻戦",
+      "author": "芥見 下々",
+      "genres": ["バトル", "ホラー"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=600&q=80",
+      "description": "呪いと戦う呪術師たちのダークバトル作品。"
+    },
+    {
+      "id": "8",
+      "label": "東京喰種",
+      "title": "東京喰種",
+      "author": "石田 スイ",
+      "genres": ["ダークファンタジー", "サスペンス"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1483794344563-d27a8d18014e?auto=format&fit=crop&w=600&q=80",
+      "description": "喰種と人間の狭間で葛藤する青年の物語。"
+    },
+    {
+      "id": "9",
+      "label": "DEATH NOTE",
+      "title": "DEATH NOTE",
+      "author": "大場つぐみ / 小畑健",
+      "genres": ["サスペンス", "心理戦"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1527259211759-f2bb1b2655f1?auto=format&fit=crop&w=600&q=80",
+      "description": "死神のノートを手にした天才高校生の心理戦サスペンス。"
+    },
+    {
+      "id": "10",
+      "label": "ブラッククローバー",
+      "title": "ブラッククローバー",
+      "author": "田畠 裕基",
+      "genres": ["ファンタジー", "バトル"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?auto=format&fit=crop&w=600&q=80",
+      "description": "魔法がすべての世界で魔法が使えない少年が魔法帝を目指す物語。"
+    },
+    {
+      "id": "11",
+      "label": "僕のヒーローアカデミア",
+      "title": "僕のヒーローアカデミア",
+      "author": "堀越 耕平",
+      "genres": ["バトル", "学園"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1585202900225-6d3ac20a6962?auto=format&fit=crop&w=600&q=80",
+      "description": "個性と呼ばれる能力を持つ少年たちのヒーロー学園物語。"
+    },
+    {
+      "id": "12",
+      "label": "ソードアート・オンライン",
+      "title": "ソードアート・オンライン",
+      "author": "川原 礫",
+      "genres": ["SF", "ファンタジー"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1558980664-10ea2927b212?auto=format&fit=crop&w=600&q=80",
+      "description": "VR世界で繰り広げられる戦いと冒険の物語。"
+    },
+    {
+      "id": "13",
+      "label": "ワールドトリガー",
+      "title": "ワールドトリガー",
+      "author": "葦原 大介",
+      "genres": ["SF", "バトル"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=600&q=80",
+      "description": "異世界からの侵略者と戦う防衛組織を描いたSFバトル作品。"
+    },
+    {
+      "id": "14",
+      "label": "キングダム",
+      "title": "キングダム",
+      "author": "原 泰久",
+      "genres": ["歴史", "戦記"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1529424943476-04a2188533ce?auto=format&fit=crop&w=600&q=80",
+      "description": "中華統一を夢見る少年と若き王の歴史戦記。"
+    },
+    {
+      "id": "15",
+      "label": "怪獣8号",
+      "title": "怪獣8号",
+      "author": "松本 直也",
+      "genres": ["SF", "バトル"],
+      "coverImageUrl": "https://images.unsplash.com/photo-1598514982901-0c8c2bbcba1a?auto=format&fit=crop&w=600&q=80",
+      "description": "怪獣討伐隊と怪獣の力を宿した男が戦う物語。"
+    }
+  ],
+  "edges": [
+  { "id": "e01", "source": "1", "target": "2", "strength": 0.93 },
+  { "id": "e02", "source": "1", "target": "3", "strength": 0.74 },
+  { "id": "e03", "source": "3", "target": "5", "strength": 0.68 },
+  { "id": "e04", "source": "4", "target": "5", "strength": 0.81 },
+
+  { "id": "e05", "source": "6", "target": "2", "strength": 0.59 },
+  { "id": "e06", "source": "7", "target": "8", "strength": 0.84 },
+  { "id": "e07", "source": "7", "target": "9", "strength": 0.62 },
+  { "id": "e08", "source": "8", "target": "9", "strength": 0.77 },
+  { "id": "e09", "source": "5", "target": "10", "strength": 0.66 },
+  { "id": "e10", "source": "3", "target": "10", "strength": 0.58 },
+
+  { "id": "e11", "source": "11", "target": "7", "strength": 0.72 },
+  { "id": "e12", "source": "11", "target": "6", "strength": 0.55 },
+  { "id": "e13", "source": "12", "target": "13", "strength": 0.79 },
+  { "id": "e14", "source": "12", "target": "3", "strength": 0.61 },
+  { "id": "e15", "source": "13", "target": "15", "strength": 0.83 },
+
+  { "id": "e16", "source": "4", "target": "7", "strength": 0.71 },
+  { "id": "e17", "source": "4", "target": "8", "strength": 0.67 },
+  { "id": "e18", "source": "8", "target": "14", "strength": 0.63 },
+  { "id": "e19", "source": "14", "target": "11", "strength": 0.57 },
+  { "id": "e20", "source": "10", "target": "15", "strength": 0.74 },
+
+  { "id": "e21", "source": "1", "target": "5", "strength": 0.76 },
+  { "id": "e22", "source": "2", "target": "6", "strength": 0.52 },
+  { "id": "e23", "source": "9", "target": "11", "strength": 0.69 },
+  { "id": "e24", "source": "13", "target": "7", "strength": 0.73 },
+  { "id": "e25", "source": "15", "target": "4", "strength": 0.78 },
+  { "id": "e26", "source": "12", "target": "15", "strength": 0.82 },
+  { "id": "e27", "source": "10", "target": "13", "strength": 0.71 },
+  { "id": "e28", "source": "6", "target": "11", "strength": 0.64 }
+]
+}

@@ -1,0 +1,41 @@
+/* Base styling for Sigma container when using @react-sigma/core v5 */
+.sigma-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  user-select: none;
+  overflow: hidden;
+}
+
+.sigma-container canvas,
+.sigma-container svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.sigma-container .sigma-mouse, .sigma-container .sigma-hud {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.sigma-container .sigma-hud {
+  pointer-events: auto;
+}
+
+/* Basic tooltip styling to match the existing design */
+.sigma-tooltip {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.95);
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+  padding: 0.75rem 1rem;
+  color: #111827;
+  font-size: 0.9rem;
+}
