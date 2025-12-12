@@ -131,6 +131,9 @@ const DetailPanel: React.FC<DetailPanelProps> = ({ selected, onReset }) => {
           </div>
         </div>
       )}
+      <div className="mt-4 pt-4 border-t border-gray-100 text-[10px] text-gray-400 text-center">
+  Data Sources: <a href="https://www.kaggle.com/datasets/joshjms/kawaii" target="_blank" rel="noreferrer" className="underline hover:text-gray-600">MangaDataset</a> & <a href="https://mimizun.com/" target="_blank" rel="noreferrer" className="underline hover:text-gray-600">mimizun</a>
+</div>
     </aside>
   );
 };
