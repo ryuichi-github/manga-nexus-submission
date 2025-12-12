@@ -29,6 +29,10 @@
 
 ### Installation
 ```bash
+# Clone the repository
+git clone https://github.com/ryuichi-github/manga-nexus-submission.git
+cd manga-nexus-submission
+
 # Install dependencies
 npm install
 
@@ -49,8 +53,8 @@ This project uses a hybrid dataset constructed from the following sources:
 
 2. **Social Recommendation Data:** Scraped from [mimizun.com](https://mimizun.com/) (Archives of 2ch/5ch)
    * Used to generate weighted edges based on user co-occurrences and reply chains.
-   * Thread Ids can be found in ./reference/mimizun_threads.txt
-   * *Note: Data processing scripts and the "Gold Standard" verification logs are included in the `/notebooks` directory.*
+   * Thread Ids can be found in `/reference/mimizun_threads.txt`
+   * *Note: Data processing scripts and the verification logs are included in the `/notebooks` directory.*
 
 ## Final Report
 For a detailed discussion of the conceptual framework, technical process, and AI transparency statement, please refer to the **Final Report** submitted separately.
