@@ -55,9 +55,6 @@ export default function Home() {
                 🚀 Discovery Mode is a good starting point.
               </span>
             </p>
-            <div className="mt-4 pt-4 border-t border-gray-100 text-[10px] text-gray-400 text-center">
-  Data Sources: <a href="https://www.kaggle.com/datasets/joshjms/kawaii" target="_blank" rel="noreferrer" className="underline hover:text-gray-600">MangaDataset</a> & <a href="https://mimizun.com/" target="_blank" rel="noreferrer" className="underline hover:text-gray-600">mimizun</a>
-</div>
           </div>
           
           {/* Discovery Button (Header version) */}
